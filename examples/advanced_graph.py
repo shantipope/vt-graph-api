@@ -5,7 +5,7 @@ from vt_graph_api import VTGraph
 from vt_graph_api.errors import NodeNotFoundError
 
 
-API_KEY = ""  # Add your VT API Key here.
+API_KEY = "cd3f3e59a24e8f9acdd5c80c5375b8ed41932ee4adcf197de94f0fdaf97c4c20"  # Add your VT API Key here.
 
 
 graph = VTGraph(
